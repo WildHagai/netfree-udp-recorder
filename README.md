@@ -18,7 +18,7 @@
 התקינו את התוכנה tshark:
 
 ```bash
-bash sudo apt install tshark
+sudo apt install tshark
 ```
 
 הריצו את `udp_recorder.sh`, ובחרו את ממשק הרשת הרצוי (למשל למי שמשתמש בwifi, לבחור במספר השורה שבסופה מופיע wifi).
